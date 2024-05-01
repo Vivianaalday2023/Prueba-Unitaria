@@ -1,0 +1,14 @@
+{
+  "name": "exercise-unit-test-with-jest-main",
+  "version": "1.0.0",
+  "description": "<!-- hide --> # Prueba Unitaria con Jest <!-- endhide -->",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.7.0"
+  }
+}
